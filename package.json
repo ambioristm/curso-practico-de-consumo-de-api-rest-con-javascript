@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-de-consumo-de-api-rest-con-javascript",
+  "version": "1.0.0",
+  "description": "Curso Prático de Consumo de API REST con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambioristm/curso-practico-de-consumo-de-api-rest-con-javascript.git"
+  },
+  "author": "Antonio Trinidad <ambioristm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ambioristm/curso-practico-de-consumo-de-api-rest-con-javascript/issues"
+  },
+  "homepage": "https://github.com/ambioristm/curso-practico-de-consumo-de-api-rest-con-javascript#readme"
+}
